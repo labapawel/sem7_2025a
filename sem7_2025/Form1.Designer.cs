@@ -111,13 +111,13 @@
             // columnHeader2
             // 
             this.columnHeader2.Text = "IPv4";
-            this.columnHeader2.Width = 120;
+            this.columnHeader2.Width = 95;
             // 
             // columnHeader3
             // 
             this.columnHeader3.Text = "";
             this.columnHeader3.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            this.columnHeader3.Width = 150;
+            this.columnHeader3.Width = 230;
             // 
             // Form1
             // 

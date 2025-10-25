@@ -1,0 +1,10 @@
+C:\Users\pawel\source\repos\sem7_2025\sem7_2025\bin\Release\sem7_2025.exe.config
+C:\Users\pawel\source\repos\sem7_2025\sem7_2025\bin\Release\sem7_2025.exe
+C:\Users\pawel\source\repos\sem7_2025\sem7_2025\bin\Release\sem7_2025.pdb
+C:\Users\pawel\source\repos\sem7_2025\sem7_2025\obj\Release\sem7_2025.csproj.AssemblyReference.cache
+C:\Users\pawel\source\repos\sem7_2025\sem7_2025\obj\Release\sem7_2025.Form1.resources
+C:\Users\pawel\source\repos\sem7_2025\sem7_2025\obj\Release\sem7_2025.Properties.Resources.resources
+C:\Users\pawel\source\repos\sem7_2025\sem7_2025\obj\Release\sem7_2025.csproj.GenerateResource.cache
+C:\Users\pawel\source\repos\sem7_2025\sem7_2025\obj\Release\sem7_2025.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\sem7_2025\sem7_2025\obj\Release\sem7_2025.exe
+C:\Users\pawel\source\repos\sem7_2025\sem7_2025\obj\Release\sem7_2025.pdb
